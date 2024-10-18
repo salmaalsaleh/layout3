@@ -1,0 +1,14 @@
+.tl{
+    border: solid;
+    border-color: white;
+    border-radius: 50px;
+    width: 120px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    color: white;
+}
+.title{
+    color: rgb(43, 164, 212);
+    text-align: center;
+}
